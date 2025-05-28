@@ -1,7 +1,7 @@
 # SHL-Assessment-Recommendation-Platform
 An AI-powered recommendation system that suggests the most relevant SHL assessments based on user queries, job descriptions, or unstructured input. Built using modern Retrieval-Augmented Generation (RAG) techniques, this project leverages LangChain, Pinecone, and MistralAI to deliver accurate, context-aware recommendations through an intuitive Streamlit interface.
 
-#Features
+# Features
 AI-Powered Recommendations: Suggests SHL assessments tailored to your requirements using semantic search and LLMs.
 
 Natural Language Query Support: Enter job descriptions, skill requirements, or free-form text.
